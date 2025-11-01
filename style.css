@@ -1,0 +1,52 @@
+body{
+/*   background-color:#B2D3C2; */
+  background-image:url(https://png.pngtree.com/background/20211215/original/pngtree-aesthetic-flower-seamless-pattern-background-illustration-picture-image_1472402.jpg);
+  background-size:cover;
+  background-position:center;
+  
+  
+  font-family:"Lucida Console", "Courier New", monospace;
+    display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+.c{
+  background-color:#3F704D;
+  width:500px;
+  padding:20px;
+  border-radius:10px;
+  text-align:center;
+  box-shadow: 0 0 10px #3B7A57;
+}
+
+h2{
+ color: #1C352D; 
+  font-size:30px;
+  
+  
+}
+#ta{
+  width:90%;
+  height:130px;
+  font-size:1rem;
+  margin-bottom:10px;
+  resize:none;
+  border:2px solid  #8A9A5B;
+  
+  
+  
+  
+  
+}
+.counter{
+  color:#9DC183;
+  
+  
+  
+}
+p{
+  color:#9DC183;
+  font-size:25px;
+  
+}
